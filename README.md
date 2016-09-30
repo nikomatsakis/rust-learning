@@ -57,6 +57,7 @@ The main documentation is always the best beginning, so if you haven't read yet,
 
 You can watch Rust's meetups at [air.mozilla](https://air.mozilla.org/channels/rust/)
 
+* [official] [into_rust()](http://intorust.com/) - screencasts for learning Rust
 * [official] [Stanford Seminar](https://www.youtube.com/watch?v=O5vzLKg7y-k) - [Aaron Turon][]
 * [official] [The Rust Programming Language](https://www.youtube.com/watch?v=d1uraoHM8Gg) - [Alex Crichton][]
 * [official] [RustCamp 2015](http://confreaks.tv/events/rustcamp2015)
